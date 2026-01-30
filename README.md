@@ -1,2 +1,10 @@
-辞了么APP技术支持
-联系邮箱：vijaylee10@icloud.com
+# cileme App 技术支持页面
+
+## 支持范围
+- App功能异常、卡顿/崩溃问题
+- 功能建议、体验反馈
+
+
+## 联系我们
+若遇到上述问题，请通过以下方式反馈：
+📧 联系邮箱：vijaylee10@icloud.com
